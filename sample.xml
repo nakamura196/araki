@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>すいこでん</title>
+            <author>ほげほげ</author>
+            <respStmt>
+               <resp when="2021-01-31">TEI Encoding</resp>
+               <name>Satoru Nakamura</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal
+                  (CC0 1.0) Public Domain Dedication</ref></p>
+
+         </publicationStmt>
+         <sourceDesc>
+            <bibl> すいこでん </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surfaceGrp>
+         <surface>
+            <graphic url="A006376-03-0013.jpg"/>
+            <zone xml:id="zone_dlx_kkt_m4b" lry="1104" lrx="854" uly="307" ulx="805"/>
+            <zone xml:id="zone_uzd_slt_m4b" lry="911" lrx="826" uly="807" ulx="772"/>
+            <zone xml:id="zone_yzx_ylt_m4b" lry="1148" lrx="857" uly="1091" ulx="806"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <p>
+            <lb/><seg facs="#zone_dlx_kkt_m4b">去虚....</seg><note facs="#zone_yzx_ylt_m4b"
+               place="bottom" type="書き入れ">赤の文字</note>
+            <lb/><seg>...不信有<note facs="#zone_uzd_slt_m4b" place="right" type="行間の印字"
+               >緑の文字</note>....</seg>
+         </p>
+      </body>
+   </text>
+</TEI>
