@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+            <author>ほげほげ</author>
+            <respStmt>
+               <resp when="2021-01-31">TEI Encoding</resp>
+               <name>Satoru Nakamura</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal
+                  (CC0 1.0) Public Domain Dedication</ref></p>
+
+         </publicationStmt>
+         <sourceDesc>
+            <bibl> すいこでん </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+   </facsimile>
+   <text>
+      <body>
+         <div type="original">
+            
+            
+         </div>
+         <div type="note">
+            <ab>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
