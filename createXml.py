@@ -28,7 +28,7 @@ def getManifest(uri):
 
 
 
-df_multi = pd.read_excel("映雪草堂批評・書き入れテキストデータ_2.xlsx", sheet_name=[0, 1], header=None, index_col=None, engine='openpyxl')
+df_multi = pd.read_excel("水滸伝.xlsx", sheet_name=[0, 1], header=None, index_col=None, engine='openpyxl')
 
 df = df_multi[0]
 
